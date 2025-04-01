@@ -17,7 +17,7 @@ https://miro.com/app/board/uXjVIIMpudM=/
 [Requerimientos FitLife.xlsx](https://github.com/user-attachments/files/19558950/Requerimientos.FitLife.xlsx)
 
 
-[Proyecto FitWell.docx](https://github.com/user-attachments/files/19558951/Proyecto.FitWell.docx)
-
-
 [Carta Gantt.xlsx](https://github.com/user-attachments/files/19558952/Carta.Gantt.xlsx)
+
+
+[Proyecto FitWell.docx](https://github.com/user-attachments/files/19559031/Proyecto.FitWell.docx)
